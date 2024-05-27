@@ -1,6 +1,6 @@
-# Markdown Previewer
+# Build a JavaScript Calculator
 
-This is my solution to the FreeCodeCamp Front End Libraries Projects - Build a Markdown Previewer.
+This is my solution to the FreeCodeCamp Front End Libraries Projects - Build a JavaScript Calculator.
 
 ## Technologies used
 * React js
