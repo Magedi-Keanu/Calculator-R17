@@ -5,7 +5,7 @@ This is my solution to the FreeCodeCamp Front End Libraries Projects - Build a M
 ## Technologies used
 * React js
 * HTML
-* SCSS
+* CSS
 * Javascript
 
 ## Test app
